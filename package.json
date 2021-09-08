@@ -1,0 +1,18 @@
+{
+  "name": "dev.csaccent.so",
+  "version": "1.0",
+  "displayName": "Scriptable Object Library",
+  "description": "A collection of the most common used scriptable object cases I use through out my videos. It includes variables in data containers and scriptable object events. Plus some additional helper scripts to work with, such as True/False event stacks based on bools / gameObject states and numeric comparisons. There's also a few other utility scripts.",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/sharpaccent/ScriptableObject-Library",
+  "dependencies": {
+ },
+ "keywords": [
+    "Scriptables",
+    "Utility",
+  ],
+  "author": {
+    "name": "sharpaccent",
+    "url": "https://sharpaccent.com/"
+  }
+}
